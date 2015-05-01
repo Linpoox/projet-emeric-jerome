@@ -1,0 +1,1 @@
+Project that implements a game for academic project
